@@ -2,6 +2,6 @@
 .ipynb_checkpoints/
 
 .DS_Store
-
+.idea/
 #db
 my_database.db
