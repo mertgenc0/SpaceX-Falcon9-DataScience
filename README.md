@@ -55,5 +55,6 @@ This project demonstrates how data science can be applied to predict the landing
 - `3TaskSpaceX-Falcon9-DataWrangling.ipynb`: Cleaning and transforming the raw data for analysis.
 - `5.TaskSpaceX-Falcon9-Visualization.ipynb`: Exploratory Data Analysis and visualizations.
 - `6.TaskSpaceX-Falcon-MapVis.ipynb`: Interactive map visualizations using Folium.
-- `7.TaskSpaceX-Falcon9-MachineLearning.ipynb`: Machine learning models for predicting landing success..
+- `7.TaskSpaceX_dash_app.ipynb`: Interactive map visualizations using Folium.
+- `8.TaskSpaceX-Falcon9-MachineLearning.ipynb`: Machine learning models for predicting landing success..
 - Various `.csv` files: Cleaned and processed datasets used in the project.
